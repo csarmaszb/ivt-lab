@@ -1,0 +1,5 @@
+1. Single mód: Két lövés egymás után, mindkét store tartalmaz torpedót, mindkét store lő
+2. Single mód: Ha az aktuálisan következő store kiürült, és a másik nem üres, a másikat használja-e
+3. Single mód: Nem volt még lövés, mindkét store tartalmaz torpedót, első store lő-e
+4. Single mód: Ha kiürülnek a store-ok egyik sem lő
+5. All mód: Kiürült store-ok nem lőnek
